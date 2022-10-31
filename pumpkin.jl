@@ -1,3 +1,4 @@
+# more details and resources here: http://juliagraphics.github.io/Gtk.jl/v0.16/manual/canvas.html
 using Gtk, Graphics
 c = @GtkCanvas()
 win = GtkWindow(c, "Canvas")
